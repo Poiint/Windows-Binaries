@@ -1,0 +1,2 @@
+# If you have to bypass restriction that doesn't allow to import modules, run this ps command:
+Set-ExecutionPolicy Bypass -Scope Process
