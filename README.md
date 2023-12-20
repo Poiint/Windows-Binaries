@@ -1,2 +1,2 @@
 # Windows-Binaries
-A collection of windows binaries used for penetration testing.
+A collection of windows binaries and powershell scripts used for penetration testing.
